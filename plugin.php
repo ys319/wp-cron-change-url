@@ -138,3 +138,5 @@ class ChangeCronURL
         }
     }
 }
+
+new ChangeCronURL;
